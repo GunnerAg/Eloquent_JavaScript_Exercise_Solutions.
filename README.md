@@ -1,4 +1,4 @@
-## Hi there :octocat:, thanks for checking my code, if you find any :bug: or just want to ask or comment something, please contact me! i will be happy :smile: to replay!
+#### Hi there :octocat:, thanks for checking my code, if you find any :bug: or just want to ask or comment something, please contact me! i will be happy :smile: to replay!
 
 # Eloquent JavaScript Exercise Solutions.
 ## The book with all the exercise and content can be fount at https://eloquentjavascript.net/
