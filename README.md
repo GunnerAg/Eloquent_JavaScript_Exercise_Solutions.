@@ -2,10 +2,10 @@
 
 ## The book with all the exercise and content can be fount at https://eloquentjavascript.net/
 
-I do not own any rights on this content, and this use is for personal and learning purepose, I recomend reading the chapters of the book ahead of doing the exercise
+## I do not own any rights on this content, and this use is for personal and learning purepose, I recomend reading the chapters of the book ahead of doing the exercise
 but if you are fluent on codeing and want to go for it I leave bellow all the articulations of the exercises from the book.
 
-Here you can find some of the Eloquent Javascript book exercise solutions, this solutions are my own version of the solutions and are different from the solutions given by the author at https://eloquentjavascript.net/code/
+## Here you can find some of the Eloquent Javascript book exercise solutions, this solutions are my own version of the solutions and are different from the solutions given by the author at https://eloquentjavascript.net/code/
 
 
 ----------------------------------------------------------------------------------
