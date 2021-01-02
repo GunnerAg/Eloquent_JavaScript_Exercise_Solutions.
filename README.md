@@ -7,7 +7,6 @@
 ## Here you can find some of the Eloquent Javascript book exercise solutions, this solutions are my own version of the solutions and are different from the solutions given by the author at https://eloquentjavascript.net/code/
 
 
-----------------------------------------------------------------------------------
 ## CHAPTER 2 EXERCISES:
 **********************************************************************************
 
@@ -53,8 +52,8 @@ When you have a program that generates this pattern, define a binding size = 8 a
 
 (This is actually an interview question that has been claimed to weed out a significant percentage of programmer candidates. So if you solved it, your labor market value just went up.)
 
-
 ----------------------------------------------------------------------------------
+
 ## CHAPTER 3 EXERCISES:
 **********************************************************************************
 
@@ -83,8 +82,8 @@ Write a function countBs that takes a string as its only argument and returns a 
 
 Next, write a function called countChar that behaves like countBs, except it takes a second argument that indicates the character that is to be counted (rather than counting only uppercase “B” characters). Rewrite countBs to make use of this new function.
 
-
 ----------------------------------------------------------------------------------
+
 ## CHAPTER 4 EXERCISES:
 **********************************************************************************
 
