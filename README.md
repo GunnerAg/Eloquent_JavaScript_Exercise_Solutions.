@@ -8,8 +8,8 @@
 
 
 ----------------------------------------------------------------------------------
-**********************************************************************************
 ## CHAPTER 2 EXERCISES:
+**********************************************************************************
 
 ### Looping a triangle
 Write a loop that makes seven calls to console.log to output the following triangle:
@@ -55,8 +55,8 @@ When you have a program that generates this pattern, define a binding size = 8 a
 
 
 ----------------------------------------------------------------------------------
-**********************************************************************************
 ## CHAPTER 3 EXERCISES:
+**********************************************************************************
 
 ### Minimum
 The previous chapter introduced the standard function Math.min that returns its smallest argument. We can build something like that now. Write a function min that takes two arguments and returns their minimum.
@@ -85,8 +85,8 @@ Next, write a function called countChar that behaves like countBs, except it tak
 
 
 ----------------------------------------------------------------------------------
-**********************************************************************************
 ## CHAPTER 4 EXERCISES:
+**********************************************************************************
 
 ### The sum of a range
 The introduction of this book alluded to the following as a nice way to compute the sum of a range of numbers:
