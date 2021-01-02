@@ -14,13 +14,21 @@ Here you can find some of the Eloquent Javascript book exercise solutions, this 
 ### Looping a triangle
 Write a loop that makes seven calls to console.log to output the following triangle:
 
-`#
-##
-###
-####
-#####
-######
-#######`
+`# \n`
+`## \n`
+`### \n`
+`#### \n`
+`##### \n`
+`###### \n`
+`####### \n`
+
+#
+## 
+### 
+#### 
+##### 
+###### 
+####### 
 
 It may be useful to know that you can find the length of a string by writing .length after it.
 
@@ -38,14 +46,14 @@ Write a program that creates a string that represents an 8×8 grid, using newlin
 
 Passing this string to console.log should show something like this:
 
-` # # # #
-# # # # 
  # # # #
 # # # # 
  # # # #
 # # # # 
  # # # #
-# # # # `
+# # # # 
+ # # # #
+# # # # 
 
 When you have a program that generates this pattern, define a binding size = 8 and change the program so that it works for any size, outputting a grid of the given width and height.
 
