@@ -1,5 +1,5 @@
 # Eloquent JavaScript Exercise Solutions.
-## Hi there :octocat: !
+## Hi there :octocat:, thanks for checking my code, if you find any :bug: or just want to ask or comment something, please contact me! i will be happy :smile: to replay!
 ## The book with all the exercise and content can be fount at https://eloquentjavascript.net/
 
 ## I do not own any rights on this content, and this use is for personal and learning purepose, I recomend reading the chapters of the book ahead of doing the exercise but if you are fluent on codeing and want to go for it I leave bellow all the articulations of the exercises from the book.
