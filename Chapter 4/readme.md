@@ -1,0 +1,2 @@
+Node was installed via node package manager in order to run the JS out of the browser (localy), this was the easiest way I could come out with to run the JS files.
+This are my solutions to the exercises, the author of the book has its own solutions here https://eloquentjavascript.net/code/#4
