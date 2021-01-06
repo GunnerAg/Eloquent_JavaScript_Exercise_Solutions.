@@ -1,8 +1,8 @@
-#### Hi there :octocat:, thanks for checking my code, if you find any :bug: or just want to ask or comment something, please contact me! i will be happy :smile: to replay!
+#BEWARE THIS CODE IS NOT COMPLETE, I WOULD UPLOAD EACH CHAPTER EXERCISES AS I FINISH THEM.
 
 # Eloquent JavaScript Exercise Solutions.
 ## The book with all the exercise and content can be fount at https://eloquentjavascript.net/
-
+#### Hi there :octocat:, thanks for checking my code, if you find any :bug: or just want to ask or comment something, please contact me! i will be happy :smile: to replay!
 ## I do not own any rights on this content, and this use is for personal and learning purepose, I recomend reading the chapters of the book ahead of doing the exercise but if you are fluent on codeing and want to go for it I leave bellow all the articulations of the exercises from the book.
 
 ## Here you can find some of the Eloquent Javascript book exercise solutions, this solutions are my own version, some of them use things that are not introduce until chapters ahead but since I knew about them ahead I used them to solve some problems in a cleaner way, the solutions are therefor different from the solutions given by the author at https://eloquentjavascript.net/code/
