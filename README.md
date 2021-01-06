@@ -1,4 +1,4 @@
-#BEWARE THIS CODE IS NOT COMPLETE, I WOULD UPLOAD EACH CHAPTER EXERCISES AS I FINISH THEM.
+# BEWARE THIS CODE IS NOT COMPLETE, I WOULD UPLOAD EACH CHAPTER EXERCISES AS I FINISH THEM.
 
 # Eloquent JavaScript Exercise Solutions.
 ## The book with all the exercise and content can be fount at https://eloquentjavascript.net/
